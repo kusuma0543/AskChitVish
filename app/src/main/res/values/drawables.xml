@@ -1,0 +1,8 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <item name="ic_home" type="drawable">@drawable/ic_home</item>
+    <item name="ic_trend" type="drawable">@drawable/ic_trend</item>
+    <item name="ic_favorite" type="drawable">@drawable/ic_favorite</item>
+    <item name="ic_new" type="drawable">@drawable/ic_new</item>
+    <item name="ic_recently" type="drawable">@drawable/ic_recentlly</item>
+
+</resources>
